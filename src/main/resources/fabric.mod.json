@@ -8,6 +8,9 @@
   "authors": [
     "gudenau"
   ],
+  "contact": {
+    "sources": "https://github.com/gudenau/minecraft-tagAlias"
+  },
 
   "environment": "*",
   "mixins": [
