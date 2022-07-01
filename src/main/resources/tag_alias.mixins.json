@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gudenau.minecraft.tagalias.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TagAliasAccessor",
+    "TagGroupLoaderMixin",
+    "TagManagerLoaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

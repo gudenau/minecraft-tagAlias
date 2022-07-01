@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "tag_alias",
+  "version": "${version}",
+
+  "name": "Tag Alias",
+  "description": "Allows for aliasing tags.",
+  "authors": [
+    "gudenau"
+  ],
+
+  "environment": "*",
+  "mixins": [
+    "tag_alias.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": ">=1.18.2"
+  }
+}
